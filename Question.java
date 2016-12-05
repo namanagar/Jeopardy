@@ -15,12 +15,12 @@ public class Question
     /**
      * Constructor for objects of class Question
      */
-    public Question(String question, Array[] choices, String answer, int dollarAmount, boolean pickedYet)
+    public Question(String question, Array[] choices, String answer, int dollarAmount)
     {
        this.question = question;
        this.answer = answer;
        this.choices = choices;
        this.dollarAmount = dollarAmount;
-       this.pickedYet = pickedYet;
+       pickedYet = false;
     }
 }
