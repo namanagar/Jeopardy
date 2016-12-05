@@ -1,11 +1,3 @@
-Question 
-choice
-choice
-choice
-choice
-answer
-point value
-
 This person co-founded Apple with Steve Jobs.
 Bill Gates
 Steve Irwin
@@ -62,3 +54,31 @@ Slayer
 Smash Mouth
 Slayer
 200
+This person became known for killing John Lennon
+Mark David Chapman
+Lee Harvey Oswald
+John Wayne Gacy
+Charles Manson
+Mark David Chapman
+300
+This up and coming rapper is known for Speaking in cursive"
+Chance The Rapper
+Desiigner
+Lil Uzi Vert
+Lil Yachty
+Desiigner
+100
+This Rapper Shot himself twice
+Kodak Black
+Jay-Z
+Lil Wayne
+Migos
+Lil Wayne
+200
+This rapper once famously rapped in pig latin
+Eminem
+Nas
+Yeezus
+Drake
+Yeezus
+300
