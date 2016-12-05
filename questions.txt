@@ -1,0 +1,64 @@
+Question 
+choice
+choice
+choice
+choice
+answer
+point value
+
+This person co-founded Apple with Steve Jobs.
+Bill Gates
+Steve Irwin
+Sergey Brin
+Steve Wozniak
+Steve Wozniak
+100
+This popular VR Device is developed by Facebook.
+Oculus Rift
+Gear VR
+Vive
+HoloLens
+Oculus Rift
+200
+This phenomenon causes soft errors, or bit flips in RAM
+Nuclear Waste
+Cosmic Rays 
+Power Surge
+Memory Leak
+Cosmic Rays
+300
+This university has the largest endowment in the world
+Oxford
+Harvard
+Princeton
+Stanford
+Harvard
+100
+This university does NOT use a tiger as its mascot
+Mizzou
+Princeton
+Maine
+Clemson
+Maine
+200
+This prestigious university's mascot is surprisingly Keggy the Keg
+Brown
+Cornell
+Dartmouth
+Penn
+Dartmouth
+300
+This Italian Chicago-based mobster was ultimately jailed for tax evasion
+Al Capone
+Paul "The Waiter" Ricca
+Vincent Drucci
+Paul Blart
+Al Capone
+100
+This aptly named group hails from Huntington Park, Califonia
+The Killers
+Handguns
+Slayer
+Smash Mouth
+Slayer
+200
