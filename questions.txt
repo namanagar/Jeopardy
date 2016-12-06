@@ -14,7 +14,7 @@ Oculus Rift
 200
 This phenomenon causes soft errors, or bit flips in RAM
 Nuclear Waste
-Cosmic Rays 
+Cosmic Rays
 Power Surge
 Memory Leak
 Cosmic Rays
@@ -54,28 +54,28 @@ Slayer
 Smash Mouth
 Slayer
 200
-This person became known for killing John Lennon
+This person became notorious for killing John Lennon
 Mark David Chapman
 Lee Harvey Oswald
 John Wayne Gacy
 Charles Manson
 Mark David Chapman
 300
-This up and coming rapper is known for Speaking in cursive"
+This up and coming rapper is known for speaking in "cursive"
 Chance The Rapper
 Desiigner
 Lil Uzi Vert
 Lil Yachty
 Desiigner
 100
-This Rapper Shot himself twice
+This rapper famously shot himself...twice
 Kodak Black
 Jay-Z
 Lil Wayne
 Migos
 Lil Wayne
 200
-This rapper once famously rapped in pig latin
+This rapper once dropped a verse in pig latin
 Eminem
 Nas
 Yeezus
