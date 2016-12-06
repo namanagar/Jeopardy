@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.control.*?>
-<?import javafx.scene.layout.*?>
-<?import javafx.scene.paint.*?>
-<?import javafx.scene.text.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
 
-<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1">
   <children>
     <Button layoutX="37.0" layoutY="113.0" mnemonicParsing="false" prefHeight="69.0" prefWidth="110.0" text="\$100" textAlignment="CENTER" underline="false">
       <font>
@@ -36,12 +35,12 @@
     </Pane>
     <Text layoutX="483.0" layoutY="65.0" scaleX="2.2938432404969746" scaleY="5.057907277429411" strokeType="OUTSIDE" strokeWidth="0.0" text="Rappers">
       <font>
-        <Font name="Viner Hand ITC" size="12.0" />
+        <Font name="French Script MT" size="18.0" />
       </font>
     </Text>
     <Text layoutX="337.0" layoutY="69.0" scaleX="2.2938432404969746" scaleY="5.057907277429411" strokeType="OUTSIDE" strokeWidth="0.0" text="COUNTRIES">
       <font>
-        <Font name="Goudy Old Style" size="10.0" />
+        <Font name="Century Gothic Bold" size="10.0" />
       </font>
     </Text>
     <Text layoutX="200.0" layoutY="69.0" scaleX="2.2938432404969746" scaleY="5.057907277429411" strokeType="OUTSIDE" strokeWidth="0.0" text="COLLEGES">
