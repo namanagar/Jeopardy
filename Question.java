@@ -23,4 +23,29 @@ public class Question
        this.dollarAmount = dollarAmount;
        pickedYet = false;
     }
+    
+    public String getQuestion() 
+    {
+        return question;
+    }
+    
+    public String getAnswer() 
+    {
+        return answer;
+    }
+    
+    public String getChoices(int i) 
+    {
+        return choices[i];
+    }
+    
+    public int getDollarAmount()
+    {
+        return dollarAmount;
+    }
+    
+    public boolean getPickedYet()
+    {
+        return pickedYet;
+    }
 }
